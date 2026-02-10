@@ -16,7 +16,9 @@ This repository contains the materials, challenges & session recording links for
 
 | No. | Topics Covered | Link |
 | :--- | :--- | :--- |
-| **Session-01** | OSINT (Open Source Intelligence) + Steganography | [View Folder](https://github.com/RUET-Cyber-Security-Club/Session-23-series/tree/main/%5BSession-1%5D%20OSINT%20%2B%20Steganography) |
+| **Session-01** | OSINT (Open Source Intelligence) + Steganography | [> View Folder](https://github.com/RUET-Cyber-Security-Club/Session-23-series/tree/main/%5BSession-1%5D%20OSINT%20%2B%20Steganography)<br>[> Challenges (Steganography)](https://github.com/RUET-Cyber-Security-Club/Session-23-series/tree/main/%5BSession-1%5D%20OSINT%20%2B%20Steganography) |
+
+
 
 ---
 
