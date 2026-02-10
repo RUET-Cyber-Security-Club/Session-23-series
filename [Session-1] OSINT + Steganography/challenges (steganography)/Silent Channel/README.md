@@ -1,0 +1,13 @@
+🔐 Challenge Name
+Silent Channel
+
+📄 Description
+At first glance, this PNG image appears completely ordinary. However, not everything visible is all there is.
+Analyze the image carefully and extract the concealed data to uncover the flag.
+
+File : https://drive.google.com/drive/folders/1JFbn0IxrGKpEn1inMDDjJaXdNcJ0K9G6
+
+Flag Format: RCSC{}
+
+Author: Shahriar Ahmed Sohan
+
