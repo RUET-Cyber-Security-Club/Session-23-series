@@ -13,5 +13,5 @@ File: https://drive.google.com/drive/folders/1Oe9WzroBj-6-DMnnOLwPwwLEJbj5upYr
 Flag format: RCSC{}
 Author: Tamzid Shikto
 
-Flag:RCSC{hidden_in_plain_sight!!!}
+
 

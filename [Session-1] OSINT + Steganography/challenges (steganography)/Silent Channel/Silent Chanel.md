@@ -11,4 +11,3 @@ Flag Format: RCSC{}
 
 Author: Shahriar Ahmed Sohan
 
-Flag: RCSC{y03_d3s3rv3_th3_fl1g}

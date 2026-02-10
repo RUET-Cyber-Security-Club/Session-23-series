@@ -7,5 +7,3 @@ File: https://drive.google.com/drive/folders/1E3NJUPXf4dlwDw-EQvweDF78xwI-zzOb
 
 Flag Format: RCSC{}
 Author: Sohan
-
-Flag:RCSC{Y03_G0T_TH3_FL1G}

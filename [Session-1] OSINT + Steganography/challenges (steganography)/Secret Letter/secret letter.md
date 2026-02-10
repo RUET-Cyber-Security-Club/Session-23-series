@@ -14,4 +14,3 @@ Flag format: RCSC{}
 
 Author: Tamzid Shikto
 
-Flag:RCSC{very_very_secret_message!}

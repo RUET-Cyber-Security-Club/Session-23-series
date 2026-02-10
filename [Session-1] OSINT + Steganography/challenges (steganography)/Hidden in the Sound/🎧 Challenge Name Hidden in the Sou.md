@@ -17,4 +17,4 @@ RCSC{...}
 ✍️ Author
 Shaym Imran
 
-Flag: RCSC{N07_4LL_50UND_15_H34RD}
+
