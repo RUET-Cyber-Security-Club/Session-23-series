@@ -1,0 +1,17 @@
+🔐 Challenge Name
+Hidden in Plane Sight
+
+📄 Description
+This PNG image appears completely normal at first glance.
+No obvious distortions, no visible clues—just a clean image.
+But sometimes, secrets are not hidden in colors, but in transparency.
+Take a closer look at the image channels. One specific plane holds information that is usually ignored. By carefully analyzing the alpha channel at the right bit level, you may uncover a hidden message.
+Only those who look beyond RGB will find the truth.
+
+File: https://drive.google.com/drive/folders/1Oe9WzroBj-6-DMnnOLwPwwLEJbj5upYr
+
+Flag format: RCSC{}
+Author: Tamzid Shikto
+
+Flag:RCSC{hidden_in_plain_sight!!!}
+
