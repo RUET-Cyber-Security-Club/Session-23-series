@@ -11,7 +11,7 @@ This repository contains the materials, challenges & session recording links for
 
 ---
 
-## 📂 Session Index
+## 📂 Session Materials Index
 
 | No. | Topics Covered | Link |
 | :--- | :--- | :--- |
