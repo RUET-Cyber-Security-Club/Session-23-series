@@ -2,7 +2,6 @@
 
 ![Batch](https://img.shields.io/badge/Batch-23%20Series-blue)
 ![Type](https://img.shields.io/badge/Content-Materials%20%26%20Challenges-orange)
-![Status](https://img.shields.io/badge/Link-Session%20Recordings-red)
 
 ## 👋 Welcome, 23 Series!
 
