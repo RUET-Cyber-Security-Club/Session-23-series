@@ -16,9 +16,3 @@ The steganography challenges have been added as **individual folders** within:
 
 **`challenges (steganography)`**
 
-
----
-
-## 📝 Challenge Writeups
-All the writeups : 
-[![Advanced Steganography Challenges Writeups | Tamzid Shikto]()](https://tamzid-shikto.notion.site/Advanced-Steganography-Challenges-Writeups-Tamzid-Shikto-308b5c7739ae80b19b26e7112c75b045)  
